@@ -7,7 +7,7 @@
   <h2 class="entry-title">Home</h2>
 
   <div class="entry-meta">
-    Some Meta
+    Some Meta fvhjsdv
   </div>
 
   <div class="entry-content">
